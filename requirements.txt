@@ -1,0 +1,14 @@
+biblio-py==0.6.7
+cv==1.0.0
+cycler==0.10.0
+Jinja2==2.9.6
+kiwisolver==1.1.0
+MarkupSafe==1.1.1
+matplotlib==3.2.1
+numpy==1.18.2
+opencv-contrib-python==4.2.0.32
+opencv-python-headless==4.2.0.32
+pyparsing==2.4.6
+python-dateutil==2.8.1
+PyYAML==3.12
+six==1.10.0
